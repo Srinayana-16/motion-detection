@@ -1,0 +1,8 @@
+2026-10-06 10:54:01  motion detected -> recordings/20261006_105401.avi
+2026-10-06 10:54:14  motion detected -> recordings/20261006_105414.avi
+2026-10-06 11:03:25  motion detected -> recordings/20261006_110325.avi
+2026-10-06 11:03:51  motion detected -> recordings/20261006_110351.avi
+2026-10-07 13:17:06  motion detected -> recordings/20261007_131706.avi
+2026-10-07 13:20:07  motion detected -> recordings/20261007_132007.avi
+2026-10-07 13:20:18  motion detected -> recordings/20261007_132018.avi
+2026-10-07 13:20:50  motion detected -> recordings/20261007_132050.avi
